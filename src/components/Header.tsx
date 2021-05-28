@@ -84,16 +84,16 @@ const styles = StyleSheet.create({
     color: '#FFF'
   },
   darkWrappedButtonTheme: {
-    backgroundColor: '#3D3D4D'
+    backgroundColor: '#3D3D4D',
+    alignItems: 'flex-end'
   },
   lightWrappedButtonTheme: {
-    backgroundColor: '#FFF'
+    backgroundColor: '#FFF',
   },
   darkButtonTheme: {
     backgroundColor: '#E1E1E6',
-    marginLeft: 12
   },
   ligthButtonTheme: {
-    backgroundColor: '#3D3D4D'
+    backgroundColor: '#3D3D4D',
   }
 });
